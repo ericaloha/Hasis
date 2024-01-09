@@ -1,0 +1,15 @@
+iostat -d -m nvme1n1 10 >> on-disk-log1128
+iostat -d -m 2 |grep nvme1n1  >> iostst.log
+
+sudo nohup ./test > Log_Base_1Gbp_WithFlush.log 2>&1 &
+
+
+# reserve make log
+make 2>&1|tee make.log
+
+# reclaim memory
+
+free -m # check memory usage
+
+echo 1 > /proc/sys/vm/drop_caches # reclaim
+
