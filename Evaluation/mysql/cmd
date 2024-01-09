@@ -3,4 +3,4 @@
 
 
 
-g++ -o test TestLoad.cc -I /media/hkc/csd-7.7T/mysql-base/include -lmysqlclient -lpthread
+g++ -o test TestLoad.cc -I path/to/mysql's include directory -lmysqlclient -lpthread
