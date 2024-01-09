@@ -1,0 +1,42 @@
+
+# 1. config make file
+mkdir cmake-pb-build
+
+cmake -S . -B cmake-pb-build -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/media/hkc/csd-7/mysql-base -DMYSQL_DATADIR=/media/hkc/csd-7/mysql-base/data -DMYSQL_UNIX_ADDR=/media/hkc/csd-7/mysql-base/data/mysql.sock -DSYSCONFDIR=/media/hkc/csd-7/mysql-base/data -DWITH_DEBUG=ON -DWITH_BOOST=/home/hkc/MySQL/mysql-server-mysql-5.7.30/boost -DMYSQL_MAINTAINER_MODE=OFF
+
+#2. make file
+cmake --build cmake-pb-build --target all -- -j 32
+
+#3. init client and password
+sudo groupadd mysql
+
+sudo useradd -r -g mysql -s /bin/false mysql
+
+#4. init mysqld datadir
+cd ./cmake-pb-build/sql
+
+./mysqld --basedir=/media/hkc/csd-7/mysql-base --datadir=/media/hkc/csd-7/mysql-base/data --lower_case_table_names=0 --user=mysql --innodb-flush-method=O_DIRECT --innodb_flush_log_at_trx_commit=1 --innodb_log_file_size=2G --innodb_change_buffering=none --default-storage-engine=InnoDB --default-tmp-storage-engine=InnoDB --disabled_storage_engines=MyISAM --innodb-checksum-algorithm=none --innodb_log_checksums=OFF --innodb_doublewrite=0 --initialize-insecure
+
+#* fix error
+mkdir /media/hkc/csd-7/mysql-base/share
+
+cp /home/hkc/MySQL/mysql-server-mysql-5.7.30/cmake-pb-build/sql/share/english/errmsg.sys /media/hkc/csd-7/mysql-base/share/
+
+sudo chmod -R 777 /media/hkc/csd-7/mysql-base/data
+
+sudo chmod -R 777 /media/hkc/csd-7/mysql-base/share
+
+#5. launch mysald server
+
+./mysqld --basedir=/media/hkc/csd-7/mysql-base --datadir=/media/hkc/csd-7/mysql-base/data --socket=/media/hkc/csd-7/mysql-base/data/mysql.sock --lower_case_table_names=0 --user=mysql --innodb-flush-method=O_DIRECT --innodb_flush_log_at_trx_commit=1 --innodb_log_file_size=1G --innodb_change_buffering=none --default-storage-engine=InnoDB --default-tmp-storage-engine=InnoDB --disabled_storage_engines=MyISAM --innodb-checksum-algorithm=none --innodb_log_checksums=OFF --innodb_doublewrite=0
+
+#6. launch mysql client
+/home/hkc/MySQL/mysql-server-mysql-5.7.30/cmake-pb-build/client/mysql -uroot -h127.0.0.1 -P3306 -p
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY "root";
+FLUSH privileges;
+shutdown;
+exit;
+
+
+

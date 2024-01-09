@@ -1,0 +1,157 @@
+++++++++++++++++++++++++csd 7.7+++++++++++++++++++++++++++++
+io_depth=1
+[global]
+ioengine=libaio
+direct=1
+runtime=60
+time_based
+rw=read
+bs=4k
+numjobs=1
+size=1G
+ 
+[ssd_test]
+filename=/dev/nvme1n1
+
+ssd_test: (g=0): rw=read, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=libaio, iodepth=1
+fio-3.16
+Starting 1 process
+Jobs: 1 (f=1): [R(1)][100.0%][r=2018KiB/s][r=504 IOPS][eta 00m:00s] 
+ssd_test: (groupid=0, jobs=1): err= 0: pid=39810: Wed Nov 22 09:51:50 2023
+  read: IOPS=15.5k, BW=60.6MiB/s (63.6MB/s)(7278MiB/120001msec)
+    slat (nsec): min=1752, max=196995, avg=4273.50, stdev=3298.47
+    clat (nsec): min=705, max=99865k, avg=59248.10, stdev=479922.58
+     lat (usec): min=7, max=99885, avg=63.68, stdev=481.26
+    clat percentiles (usec):
+     |  1.00th=[    8],  5.00th=[    8], 10.00th=[    8], 20.00th=[    9],
+     | 30.00th=[    9], 40.00th=[    9], 50.00th=[   10], 60.00th=[   10],
+     | 70.00th=[   11], 80.00th=[   13], 90.00th=[   25], 95.00th=[  347],
+     | 99.00th=[  693], 99.50th=[ 1270], 99.90th=[ 4686], 99.95th=[ 6652],
+     | 99.99th=[19006]
+   bw (  KiB/s): min=  568, max=333093, per=100.00%, avg=62331.47, stdev=105143.01, samples=239
+   iops        : min=  142, max=83273, avg=15582.85, stdev=26285.75, samples=239
+  lat (nsec)   : 750=0.01%, 1000=0.01%
+  lat (usec)   : 2=0.04%, 4=0.02%, 10=69.86%, 20=18.06%, 50=5.38%
+  lat (usec)   : 100=1.26%, 250=0.25%, 500=0.64%, 750=3.80%, 1000=0.10%
+  lat (msec)   : 2=0.28%, 4=0.18%, 10=0.10%, 20=0.02%, 50=0.01%
+  lat (msec)   : 100=0.01%
+  cpu          : usr=5.21%, sys=11.01%, ctx=1861618, majf=0, minf=21
+  IO depths    : 1=100.0%, 2=0.0%, 4=0.0%, 8=0.0%, 16=0.0%, 32=0.0%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     issued rwts: total=1863070,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=1
+
+Run status group 0 (all jobs):
+   READ: bw=60.6MiB/s (63.6MB/s), 60.6MiB/s-60.6MiB/s (63.6MB/s-63.6MB/s), io=7278MiB (7631MB), run=120001-120001msec
+
+Disk stats (read/write):
+  nvme1n1: ios=1927225/18596, merge=30/1368, ticks=139099/501, in_queue=139656, util=99.82%
+
+
+
+
+
+
+++++++++++++++++++++++++WD-SSD+++++++++++++++++++++++++++++
+io_depth=1
+[global]
+ioengine=libaio
+direct=1
+runtime=60
+time_based
+rw=read
+bs=4k
+numjobs=1
+size=1G
+ 
+[ssd_test]
+filename=/dev/nvme1n1  
+hkc@hkc:~$ sudo fio ssd_test.fio
+ssd_test: (g=0): rw=read, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=libaio, iodepth=1
+fio-3.16
+Starting 1 process
+Jobs: 1 (f=1): [R(1)][100.0%][r=209MiB/s][r=53.5k IOPS][eta 00m:00s]
+ssd_test: (groupid=0, jobs=1): err= 0: pid=40300: Wed Nov 22 09:54:27 2023
+  read: IOPS=53.6k, BW=209MiB/s (219MB/s)(12.3GiB/60001msec)
+    slat (nsec): min=1619, max=155534, avg=2799.11, stdev=662.94
+    clat (nsec): min=709, max=785361, avg=15283.47, stdev=5444.63
+     lat (usec): min=12, max=788, avg=18.20, stdev= 5.58
+    clat percentiles (usec):
+     |  1.00th=[   12],  5.00th=[   13], 10.00th=[   13], 20.00th=[   15],
+     | 30.00th=[   15], 40.00th=[   15], 50.00th=[   16], 60.00th=[   16],
+     | 70.00th=[   16], 80.00th=[   16], 90.00th=[   16], 95.00th=[   18],
+     | 99.00th=[   30], 99.50th=[   60], 99.90th=[   88], 99.95th=[   89],
+     | 99.99th=[  102]
+   bw (  KiB/s): min=191304, max=231608, per=100.00%, avg=214233.73, stdev=7295.26, samples=119
+   iops        : min=47828, max=57902, avg=53558.42, stdev=1823.73, samples=119
+  lat (nsec)   : 750=0.01%, 1000=0.01%
+  lat (usec)   : 2=0.01%, 4=0.01%, 10=0.02%, 20=97.95%, 50=1.28%
+  lat (usec)   : 100=0.72%, 250=0.01%, 500=0.01%, 750=0.01%, 1000=0.01%
+  cpu          : usr=13.33%, sys=24.82%, ctx=3213408, majf=0, minf=19
+  IO depths    : 1=100.0%, 2=0.0%, 4=0.0%, 8=0.0%, 16=0.0%, 32=0.0%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     issued rwts: total=3213667,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=1
+
+Run status group 0 (all jobs):
+   READ: bw=209MiB/s (219MB/s), 209MiB/s-209MiB/s (219MB/s-219MB/s), io=12.3GiB (13.2GB), run=60001-60001msec
+
+Disk stats (read/write):
+  nvme0n1: ios=3208191/1019, merge=0/289, ticks=45409/57, in_queue=45470, util=99.91%
+hkc@hkc:~$ 
+
+
++++++++++++++++++++++++WD-SSD+++++++++++++++++++++++++++++
+io_depth=1
+[global]
+ioengine=libaio
+direct=1
+runtime=60
+time_based
+rw=read
+bs=4k
+numjobs=1
+size=1G
+ 
+[ssd_test]
+filename=/dev/nvme2n1  
+
+
+ssd_test: (g=0): rw=read, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=libaio, iodepth=1
+fio-3.16
+Starting 1 process
+Jobs: 1 (f=1): [R(1)][100.0%][r=311MiB/s][r=79.5k IOPS][eta 00m:00s]
+ssd_test: (groupid=0, jobs=1): err= 0: pid=40640: Wed Nov 22 09:57:32 2023
+  read: IOPS=82.5k, BW=322MiB/s (338MB/s)(18.9GiB/60001msec)
+    slat (nsec): min=1561, max=135880, avg=3086.54, stdev=1055.66
+    clat (nsec): min=640, max=1140.1k, avg=8442.94, stdev=3882.28
+     lat (usec): min=6, max=1144, avg=11.66, stdev= 4.35
+    clat percentiles (nsec):
+     |  1.00th=[ 6240],  5.00th=[ 6560], 10.00th=[ 6816], 20.00th=[ 7264],
+     | 30.00th=[ 7584], 40.00th=[ 7776], 50.00th=[ 8032], 60.00th=[ 8256],
+     | 70.00th=[ 8384], 80.00th=[ 8768], 90.00th=[10176], 95.00th=[11200],
+     | 99.00th=[15168], 99.50th=[19072], 99.90th=[64256], 99.95th=[71168],
+     | 99.99th=[85504]
+   bw (  KiB/s): min=298384, max=380704, per=100.00%, avg=330026.53, stdev=16155.86, samples=119
+   iops        : min=74596, max=95176, avg=82506.62, stdev=4038.96, samples=119
+  lat (nsec)   : 750=0.01%, 1000=0.01%
+  lat (usec)   : 2=0.03%, 4=0.01%, 10=88.39%, 20=11.12%, 50=0.31%
+  lat (usec)   : 100=0.13%, 250=0.01%, 500=0.01%, 750=0.01%, 1000=0.01%
+  lat (msec)   : 2=0.01%
+  cpu          : usr=21.42%, sys=42.26%, ctx=4945760, majf=0, minf=22
+  IO depths    : 1=100.0%, 2=0.0%, 4=0.0%, 8=0.0%, 16=0.0%, 32=0.0%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     issued rwts: total=4949217,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=1
+
+Run status group 0 (all jobs):
+   READ: bw=322MiB/s (338MB/s), 322MiB/s-322MiB/s (338MB/s-338MB/s), io=18.9GiB (20.3GB), run=60001-60001msec
+
+Disk stats (read/write):
+  nvme2n1: ios=4941756/1, merge=0/0, ticks=35655/3, in_queue=35661, util=99.90%
+hkc@hkc:~$ 
+
+

@@ -1,0 +1,6 @@
+
+
+
+
+
+g++ -o test TestLoad.cc -I /media/hkc/csd-7.7T/mysql-base/include -lmysqlclient -lpthread
