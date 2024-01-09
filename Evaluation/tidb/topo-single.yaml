@@ -1,0 +1,40 @@
+# # Global variables are applied to all deployments and used as the default value of
+# # the deployments if a specific deployment value is missing.
+global:
+  user: "tidb"
+  ssh_port: 22
+  deploy_dir: "/media/hkc/csd-7.7T/tidb-base/code-base"
+  data_dir: "/media/hkc/csd-7.7T/tidb-base/row-data"
+
+#server_configs:
+#  pd:
+#    replication.enable-placement-rules: true
+
+pd_servers:
+  - host: 192.168.2.139
+ # - host: 192.168.2.139
+ # - host: 192.168.2.139
+
+tidb_servers:
+  - host: 192.168.2.139
+  #- host: 10.0.1.8
+  #- host: 10.0.1.9
+
+tikv_servers:
+  - host: 192.168.2.139
+  - host: 192.168.2.139
+  - host: 192.168.2.139
+
+tiflash_servers:
+  - host: 192.168.2.139
+    data_dir: /media/hkc/csd-3.5T/tidb-base/column-data
+    deploy_dir: /media/hkc/csd-3.5T/tidb-base/code-base
+
+monitoring_servers:
+  - host: 192.168.2.139
+
+grafana_servers:
+  - host: 192.168.2.139
+
+alertmanager_servers:
+  - host: 192.168.2.139
