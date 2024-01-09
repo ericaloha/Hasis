@@ -1,0 +1,1 @@
+g++ TestLoad.cc -lpqxx -lpq -lpthread -o test

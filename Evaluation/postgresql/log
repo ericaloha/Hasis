@@ -1,0 +1,403 @@
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,181955/132,306627/19,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1233845/3989,1550799/1402,0/0,0/0
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,174909/511,334440/256,79109/9,0/0
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,35860/176,131886/113,0/0,0/0
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,690993/206,0/0
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,437639/1288,0/0,0/0,0/0
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,334099/256,656087/37,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2521072/7921,2944259/2816,0/0,0/0
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,342907/1022,717424/512,148413/17,1657/1
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,124841/384,306818/226,0/0,0/0
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,1355066/418,0/0
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,860423/2670,0/0,0/0,0/0
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,437026/387,918804/55,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3497316/11827,4146745/4201,0/0,202081/1
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,506862/1541,1007226/759,222944/25,1657/1
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,196677/579,455004/375,0/0,0/0
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,1995770/626,0/0
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1221923/4056,0/0,0/0,0/0
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,602143/505,1186277/71,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4720862/15876,5640537/5520,0/0,202081/1
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,704409/2069,1376967/1007,333571/37,1657/1
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,260258/761,628995/496,0/0,0/0
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,2586263/800,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1493077/5451,0/0,0/0,0/0
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,695128/631,1354086/83,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,5589320/19897,6552447/6939,0/0,202081/1
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,813279/2539,1614105/1280,391695/44,2408/2
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,287307/940,718934/636,0/0,0/0
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,3134693/996,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1673597/6821,0/0,0/0,0/0
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,789192/756,1690647/104,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,6648129/23892,7753638/8365,0/0,202081/1
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,952581/3050,1946858/1562,433761/51,3056/3
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,319520/1110,828691/771,0/0,0/0
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,3860530/1221,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1933872/8117,0/0,0/0,0/0
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,911977/866,1938925/118,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7660995/27923,8869368/9690,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1090325/3580,2167491/1831,534544/63,3056/3
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,378175/1295,971560/914,0/0,0/0
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,4529188/1432,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2330095/9443,0/0,0/0,0/0
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,1121233/987,2150302/129,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,8959732/31848,10194450/11099,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1275261/4090,2493262/2079,706561/81,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,429456/1464,1123773/1036,0/0,0/0
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,5184049/1640,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2733887/10804,0/0,0/0,0/0
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,1294864/1098,2524205/153,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,10068889/35840,11455480/12513,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1438540/4608,2836516/2341,760261/88,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,500980/1643,1305207/1168,0/0,0/0
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,5791864/1833,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3025929/12165,0/0,0/0,34841/1
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,1429658/1213,2923928/176,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,11095024/39855,12562463/13892,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1592211/5108,3195006/2594,819501/95,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,554305/1837,1521557/1313,0/0,788/1
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,6373230/2024,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3320037/13481,0/0,0/0,34841/1
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,1639516/1342,3204992/194,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,12406349/43871,13869268/15282,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1791078/5633,3629675/2853,871699/103,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,636408/2015,1729266/1443,0/0,788/1
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,7049643/2229,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3787502/14837,0/0,0/0,40326/2
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,1780220/1458,3434891/207,0/0
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,13468831/47861,15236508/16733,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2007370/6162,3962951/3124,977224/116,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,676877/2176,1876823/1569,0/0,788/1
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,7737072/2439,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4142670/16183,0/0,0/0,42033/3
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,1903102/1555,3786864/225,14974/1
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,14737299/51788,16931493/18151,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2199575/6672,4417190/3385,1021595/123,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,760265/2366,1992517/1677,0/0,788/1
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,8456983/2645,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4560785/17530,0/0,0/0,42033/3
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,2203609/1694,3990590/236,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,16889471/55838,19999471/19543,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2577700/7209,5071294/3667,1083694/131,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,828820/2523,2316958/1826,0/0,788/1
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,9385468/2858,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4975685/18822,0/0,0/0,42033/3
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,2321599/1791,4280977/253,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,18241952/59853,21574847/20913,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2784596/7726,5509235/3937,1173465/139,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,897338/2717,2502641/1950,0/0,3704/2
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,10160295/3060,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,5376553/20178,0/0,0/0,42033/3
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,2477495/1910,4509549/266,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,19847709/63883,23473792/22304,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3018927/8239,5969390/4205,1248898/146,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,983611/2896,2729882/2098,0/0,4443/3
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,10832160/3255,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,5816572/21547,0/0,0/0,42033/3
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,2663287/2027,4725194/276,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,21470947/67796,26092403/23777,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3299722/8737,6512426/4506,1299737/151,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1056043/3067,2932100/2212,0/0,4443/3
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,11693216/3451,1024/1
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,6441033/22906,0/0,0/0,44387/4
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,2820520/2143,5010879/293,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,22938705/71799,27990942/25180,0/0,284331/2
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3514812/9267,6801193/4737,1366723/157,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1106956/3244,3082304/2354,0/0,4443/3
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,12527503/3653,1794/2
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,6872221/24286,0/0,0/0,44387/4
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,2963154/2256,5371032/313,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,24252356/75860,29653025/26541,0/0,434675/3
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3695781/9781,7165903/5011,1455936/168,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1155590/3407,3236698/2484,0/0,4443/3
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,13291871/3866,1794/2
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7218377/25608,0/0,0/0,44387/4
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,3155330/2386,5687360/333,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,25447328/79805,31235126/28002,0/0,581927/4
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3874976/10316,7497557/5277,1576639/181,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1205334/3570,3438175/2616,0/0,4443/3
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,13978698/4064,1794/2
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7573798/26919,0/0,0/0,44387/4
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,3282100/2496,5927577/350,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,26644199/83746,32589441/29404,0/0,581927/4
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4040513/10825,7913862/5538,1628056/187,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1250723/3754,3567254/2754,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,14657558/4266,1794/2
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7912944/28273,0/0,0/0,44387/4
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,3415269/2598,6081404/360,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,27642688/87736,33674238/30778,0/0,581927/4
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4190304/11348,8219752/5804,1687613/193,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1296394/3933,3679666/2893,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,15333176/4462,2491/3
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,8227613/29611,0/0,0/0,44387/4
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,3562334/2711,6274054/371,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,28980004/91720,35547965/32107,0/0,581927/4
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4402105/11864,8547860/6079,1721603/197,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1346682/4114,3840190/3044,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,16017136/4667,2491/3
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,8655020/31007,0/0,0/0,100059/5
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,3717766/2834,6426745/381,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,30324429/95790,37274372/33522,0/0,737435/5
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4577102/12399,8842804/6338,1780920/204,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1400761/4289,3979191/3171,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,16634813/4837,2491/3
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,9099159/32401,0/0,0/0,100059/5
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,3855075/2969,6744705/399,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,31528026/99750,38785462/34912,0/0,737435/5
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4727322/12908,9174741/6611,1848568/212,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1468217/4475,4174264/3299,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,17356785/5041,2491/3
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,9478803/33823,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,4056882/3110,7137609/422,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,32858160/103813,40270887/36247,0/0,737435/5
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4919199/13391,9481532/6869,1916187/219,4458/4
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1523466/4640,4338298/3408,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,18149661/5239,3314/4
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,9838890/35209,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,4179601/3217,7483573/443,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,34072594/107866,41491335/37608,0/0,737435/5
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,5085137/13895,9797792/7156,1995749/227,5448/5
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1569195/4797,4495212/3548,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,18819580/5435,3314/4
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,10176038/36551,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,4537713/3362,7643163/452,27728/2
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,35706710/111795,43733193/38983,0/0,737435/5
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,5444029/14433,10459947/7410,2081828/237,5448/5
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1645252/4969,4776140/3672,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,19690215/5641,4014/5
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,10664103/37896,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,4701398/3492,7783322/462,52846/3
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,36913438/115843,45047123/40335,0/0,737435/5
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,5618823/14914,10862570/7695,2149242/246,5448/5
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1699581/5156,4961454/3805,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,20372567/5853,4014/5
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,10997130/39205,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,4824859/3599,8098628/483,70196/4
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,38057695/119806,46440053/41746,0/0,737435/5
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,5825879/15424,11176082/7933,2255496/255,5448/5
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1738569/5334,5054886/3929,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,21077713/6061,4014/5
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,11353987/40575,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,4958460/3701,8243565/493,70196/4
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,39104038/123756,47691992/43149,0/0,737435/5
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,6035598/15955,11441169/8179,2331208/263,5448/5
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1791074/5508,5184783/4055,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,21744184/6263,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,11652083/41985,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,5160411/3819,8571741/514,70196/4
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,40702516/127719,50127640/44503,0/0,865846/6
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,6275308/16463,11923035/8452,2454910/274,5448/5
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1864699/5701,5397458/4189,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,22490541/6455,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,12097628/43411,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,5405915/3945,8878966/529,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,42715344/131740,52731321/45860,0/0,865846/6
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,6542327/16946,12482539/8716,2575674/284,5448/5
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,1931659/5879,5700569/4329,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,23287005/6656,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,12640359/44764,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,5631564/4068,9201761/547,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,44012413/135624,54673319/47267,0/0,865846/6
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,6834777/17461,13073560/8975,2660513/295,7018/6
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2010239/6038,5900610/4451,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,24022646/6860,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,13120073/46136,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,5746875/4184,9398588/562,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,44845672/139605,55809108/48663,0/0,865846/6
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7004804/17981,13416578/9254,2694028/300,7729/7
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2069484/6206,6037059/4586,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,24589788/7065,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,13456630/47493,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,5853731/4280,9597264/575,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,45924732/143603,57055439/50066,0/0,865846/6
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7197724/18507,13738348/9534,2772763/310,8431/8
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2113728/6377,6180488/4716,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,25173119/7268,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,13749727/48867,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,5940851/4391,9801560/589,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,46648239/147579,58065632/51437,0/0,1023737/7
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7372927/19018,14025932/9813,2869520/321,8431/8
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2141327/6531,6277153/4858,0/0,5811/4
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,25795454/7484,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,14011672/50239,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,6078803/4506,10175343/612,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,47717972/151558,59260460/52788,0/0,1023737/7
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7509527/19530,14400446/10083,2926690/328,8431/8
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2185165/6705,6417543/4992,0/0,6458/5
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,26431606/7681,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,14304186/51609,0/0,0/0,102729/6
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,6179653/4601,10396978/625,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,48878084/155557,60651173/54135,0/0,1023737/7
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7671856/20032,14775715/10352,3016571/339,8431/8
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2239958/6892,6596088/5121,0/0,6458/5
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,27134602/7885,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,14624692/53017,0/0,0/0,103579/7
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,6294726/4726,10587967/637,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,49891813/159491,61682417/55567,0/0,1183917/8
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,7889169/20542,15067517/10640,3068733/346,8431/8
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2282907/7054,6745075/5255,0/0,6458/5
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,27695814/8071,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,14952002/54399,0/0,0/0,103579/7
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,6409272/4840,10809339/649,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,50768326/163440,62756312/56964,0/0,1183917/8
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,8009455/21033,15338764/10933,3132007/355,8431/8
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2345478/7266,6858107/5379,0/0,8581/6
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,28281065/8275,4741/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,15176704/55749,0/0,0/0,103579/7
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,6533023/4963,10920362/656,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,51702702/167424,63830046/58357,0/0,1183917/8
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,8160088/21569,15602434/11185,3204778/365,8431/8
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2390889/7424,7020097/5511,0/0,8581/6
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,28834400/8460,5664/7
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,15463526/57141,0/0,0/0,103579/7
+
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,6874970/5097,11357004/677,82322/5
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,54145584/171386,67748921/59763,0/0,1183917/8
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,8514958/22073,16330505/11446,3264384/369,8431/8
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2477832/7601,7319185/5644,0/0,8581/6
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,29765321/8656,6396/8
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,15879980/58464,0/0,0/0,103579/7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++Server 100W LOAD++++++++++++++++++++++++++++++++++++++++++++++++
+
+load time used: 19909 ms
+finish load orderline, exe time: 6626933 ms
+load orderline used: 6646843 ms
+finish load customer, exe time: 768911 ms
+load customer used: 7415756 ms
+finish load orders, exe time: 669395 ms
+load orders used: 8085150 ms
+finish load neworders, exe time: 622985 ms
+load neworders used: 8708134 ms
+finish load stock, exe time: 2271548 ms
+
+
+
++++++++++++++++++++++++++++++Server 100W TEST++++++++++++++++++++++++++++++++++++++++++++++++
+
+1+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,10776609/17390,61146017/2446,11907954/27
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,93812899/587934,78252527/206865,0/0,152046884/20
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,21196211/75751,22236058/39785,15324327/1191,1993573/23
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,8362308/25666,12559008/19321,0/0,2158763/29
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,159167815/30012,2252396/30
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,42864710/200611,0/0,0/0,868834/18
+
+2++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,5857207/9485,34864866/1382,3317713/8
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,52552563/318281,43505675/111324,0/0,149160244/19
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,11569323/41160,11886936/21144,8747341/656,1266577/13
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4430582/14070,6555528/10431,0/0,1210156/14
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,87833190/16213,1247758/15
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,23079363/108532,0/0,0/0,436639/10
+
+3++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,7807027/12644,46431452/1826,2574151/10
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,69872065/425109,58622957/149920,0/0,101167523/16
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,15296074/54641,16129641/28862,11366242/851,1568193/19
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,5839965/18538,8797508/13947,0/0,1541990/18
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,119297444/21671,1278771/21
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,30609138/145015,0/0,0/0,1077662/22
+
+4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,5139137/8092,31049627/1196,4536639/12
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,45252415/273565,38451010/96541,0/0,122983839/18
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,9890612/35676,10407549/18368,6893892/515,810665/10
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3691484/11914,5603502/8928,0/0,534955/9
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,77301464/13970,815667/8
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,19522607/94180,0/0,0/0,658979/11
+
+5++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,6401227/10197,37948726/1475,4607959/9
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,58161914/346223,48597238/121588,0/0,98879760/15
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,12634266/44423,13151765/23090,9334050/699,1248898/12
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4830643/15351,7169538/11320,0/0,1981474/20
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,96952452/17493,1423413/17
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,25046139/117963,0/0,0/0,529644/13
+
+6++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,4115590/6620,25908866/1007,2314131/7
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,37654155/222392,31800910/78574,0/0,87732104/12
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,8011217/28455,8421644/14839,6130813/452,1426836/14
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,2998885/9637,4601887/7299,0/0,630243/9
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,63701010/11406,393820/6
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,16033044/75719,0/0,0/0,310997/7
+
+
+7++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,5082649/7947,30097407/1182,4118935/10
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,45833255/270703,38288636/94731,0/0,68264863/12
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,9865233/35131,10139036/17981,7774147/566,719504/11
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,3624819/11744,5630984/8902,0/0,1181355/13
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,77235440/13703,787387/10
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,19455079/91967,0/0,0/0,461416/11
+
+
+
+8++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+orderline time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,6401227/10197,37948726/1475,4607959/9
+stock time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,58161914/346223,48597238/121588,0/0,98879760/15
+customer time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,12634266/44423,13151765/23090,9334050/699,1248898/12
+orders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,4830643/15351,7169538/11320,0/0,1981474/20
+neworders time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,0/0,0/0,96952452/17493,1423413/17
+item time/cnt:[put,get,update,scan_c,scan_h]--> 0/0,25046139/117963,0/0,0/0,529644/13
+
